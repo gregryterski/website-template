@@ -39,6 +39,12 @@ body {
     font-family: 'gotham_bookregular';
 }
 
+.inspo-img {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+}
+
 /*------------------------------------------------------------------*/
 /*   IE10 in Windows 8 and Windows Phone 8 Bug fix
 /*-----------------------------------------------------------------*/
@@ -775,14 +781,12 @@ textarea::-ms-input-placeholder{
     transform: rotate(45deg); 
     -webkit-animation: loading-center-absolute 1.5s infinite;
     animation: loading-center-absolute 1.5s infinite;
-
 }
 .object{
     width: 25px;
     height: 25px;
     background-color: #FFF;
     float: left;
-
 }
 
 
