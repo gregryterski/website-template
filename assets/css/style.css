@@ -40,11 +40,9 @@ body {
 }
 
 .inspo-img {
-    width: 200px !important;
-    height: 200px !important;
+    width: 200px;
+    height: 200px;
     object-fit: contain;
-    max-width: none;
-    max-height: none;
 }
 
 /*------------------------------------------------------------------*/
